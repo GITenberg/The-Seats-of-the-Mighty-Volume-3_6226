@@ -1,5 +1,5 @@
 _repo: The-Seats-of-the-Mighty-Volume-3_6226
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -30,5 +30,6 @@ subjects:
 - !lcsh 'Canada -- History -- To 1763 (New France) -- Fiction'
 - !lcc 'PS'
 - !lcsh 'United States -- History -- French and Indian War, 1754-1763 -- Fiction'
+- GITenberg
 title: The Seats of the Mighty, Volume 3
 url: http://www.gutenberg.org/ebooks/6226
